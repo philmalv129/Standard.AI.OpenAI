@@ -1,6 +1,6 @@
 # Standard.AI.OpenAI
 
-![Standard.AI.OpenAI](https://raw.githubusercontent.com/hassanhabib/Standard.AI.OpenAI/main/Standard.AI.OpenAI/standard-ai-openai-cover-big.png)
+![Standard.AI.OpenAI](https://raw.githubusercontent.com/philmalv129/Standard.AI.OpenAI/main/Standard.AI.OpenAI/standard-ai-openai-cover-big.png)
 
 
 [![.NET](https://github.com/hassanhabib/OpenAI.NET/actions/workflows/dotnet.yml/badge.svg)](https://github.com/hassanhabib/OpenAI.NET/actions/workflows/dotnet.yml)
@@ -218,31 +218,3 @@ Standard.AI.OpenAI may throw following exceptions:
 | `FineTuneClientDependencyException` | This exception is thrown when a dependency error occurs while using the fine-tunes client. For example, if a required dependency is unavailable or incompatible. |
 | `FineTuneClientDependencyException` | This exception is thrown when a service error occurs while using the fine-tunes client. For example, if there is a problem with the server or any other service failure. |
 
-
-## How to Contribute
-If you want to contribute to this project please review the following documents:
-- [The Standard](https://github.com/hassanhabib/The-Standard)
-- [C# Coding Standard](https://github.com/hassanhabib/CSharpCodingStandard)
-- [The Team Standard](https://github.com/hassanhabib/The-Standard-Team)
-
-If you have a question make sure you either open an issue or join our [The Standard Community](https://discord.com/invite/vdPZ7hS52X) discord server.
-
-## Live-Sessions
-Our live-sessions are scheduled on [The Standard Calendar](https://tinyurl.com/the-standard-calendar) make sure you adjust the time to your city/timezone to be able to join us.
-
-We broadcast on multiple platforms:
-
-[YouTube](https://www.youtube.com/@HassanHabib)
-
-[LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/)
-
-[Twitch](https://www.twitch.tv/binhabib)
-
-[Twitter](https://twitter.com/HassanRezkHabib)
-
-[Facebook](https://www.facebook.com/hassan.rezk.habib)
-
-### Past-Sessions
-Here's our live sessions to show you how this library was developed from scratch:
-
-[Standard.AI.OpenAI YouTube Playlist](https://www.youtube.com/watch?v=JQnTpGV-7YA&list=PLan3SCnsISTTl_MnGP6B78Nfu9Ix8G4mU)
